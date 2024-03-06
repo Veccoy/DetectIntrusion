@@ -7,7 +7,7 @@ Nous avons utilisé les datasets 1, 2 et 9 pour nos résultats, correspondant à
 
 ### Téléchargements des données
 
-Utilisez les lignes suivantes pour télécharer la totalité des données et placez les dans un répertoire `Datasets/`.
+Utilisez les lignes suivantes pour télécharger la totalité des données et placez les dans un répertoire `Datasets/`.
 
 ```
 wget https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-42/detailed-bidirectional-flow-labels/capture20110810.binetflow -O CTU13_42.binetflow
